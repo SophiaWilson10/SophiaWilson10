@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Sophia Wilson, a Computer Science student with a focus on software engineering. I enjoy building applications that combine clean design with practical functionality and real-world problem solving.
+I'm Sophia Wilson, a Computer Science graduate with a focus on software engineering. I enjoy building applications that combine clean design with practical functionality and real-world problem solving.
 
 ## A little about me
 - Bachelor of Science in Computer Science with a Software Engineering focus
